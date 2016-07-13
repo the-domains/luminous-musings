@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[luminous musings]]></title>
+        <description><![CDATA[luminous musings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 07:17:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Healing Turmeric Latte | Elissa Goodman]]></title>
+            <description><![CDATA[<article><h1>Healing Turmeric Latte | Elissa Goodman</h1><p>I keep getting emails from people who are doing my 21-day cleanse wondering if it's a big deal if they eat two servings of their salad or dinners.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd133f9189cb033f66f66171ef459de6/noop.jpg?input=https%3A%2F%2Felissagoodman.com%2Fwp-content%2Fuploads%2F2014%2F01%2FIMG_2507-660.jpg"></article>]]></description>
+            <link>https://elissagoodman.com/recipes/healing-turmeric-latte/</link>
+            <guid isPermaLink="false">bc0a23a9-124d-492c-8149-0fd5505e749c</guid>
+            <pubDate>Wed, 13 Jul 2016 07:17:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

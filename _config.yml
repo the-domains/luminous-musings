@@ -1,0 +1,14 @@
+layout_spectrum: 0.9598441717680544
+typography_spectrum: 0.9418233179021627
+color:
+  brandStrength: 0.24687911407090724
+  lightness: 0.36034485464915633
+  saturation: 0.9314801224973053
+  rhythmicContrast: 0.5533262779936194
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: luminous musings
